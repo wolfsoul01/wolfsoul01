@@ -4,29 +4,12 @@
     <h3 align="center">A passionate backend developer from Cuba  .</h3>
 </div>
 
-
-<div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
-
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
-
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 📝 
+- 💬 Ask me about **HTML CSS Javascript Node.JS React C#**
 
 - 📫 How to reach me **carlos.develops@gmail.com**
 
@@ -57,8 +40,4 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wolfsoul01&theme=onedark)](https://git.io/streak-stats)
