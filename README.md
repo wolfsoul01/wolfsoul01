@@ -1,5 +1,5 @@
 <div  align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://giphy.com/gifs/berserk-YnQWBOGVavTFK" />
     <h1 align="center">Hi 👋, I'm Alejandro</h1>
     <h3 align="center">A passionate backend developer from Cuba  .</h3>
 </div>
