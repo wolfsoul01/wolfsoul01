@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alejandrof011021@gmail.com**
 
-- 🌱 I’m currently learning **Node.Js,Express,NextJS,Python **
+- 🌱 I’m currently learning **Node.Js,Express,NextJS**
 
 
 <div align="left">
