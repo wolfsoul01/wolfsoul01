@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,Node.JS,React,C#**
 
-- 📫 How to reach me **alejandrof011021@gmail.com**
+- 📫 How to reach me **alejandrodev01@gmail.com**
 
 - 🌱 I’m currently learning **Node.Js,Express,NextJS**
 
