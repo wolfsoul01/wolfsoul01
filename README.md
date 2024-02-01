@@ -1,39 +1,16 @@
+### Hola 👋, mi nombre es Alejandro
+Hice este proyecto solo por diversión, te permite crear archivos Léame de GitHub simples y agradables que puedes copiar/pegar y usar en tu perfil porque si ヾ(•ω•`)o.
 
-# Hi 👋 I am Alejandro! 
-I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
+Habilidades:  REACT🔵 / JS🟡 / HTML / CSS / NodeJs🟢 / ExpressJs🟢 / Ts🔵 / Tailwind🔵 / NestJs😺 / NextJs✖️ / Astro🚀 / Docker🐋
 
-- 🌐 Visit my [portfolio website]() for more information and to get in touch.
----
+- 🌱 Estoy aprendiendo NestJs , Python , Django 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfsoul01&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wolfsoul01&theme=dark&hide_border=true" width="400">
-</p>
 
----
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://html.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/wolfsoul01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alejandro-fajardo-1548a0245//)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/wolfsoul01)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/wolfsoul01)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/wolfsoul01&show_icons=true)  
+
