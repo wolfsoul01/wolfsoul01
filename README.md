@@ -5,8 +5,9 @@
   </h1>
 <p align="center">
 	<a href="https://github.com/wolfsoul01">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;ReactJs%20|%20NextJs;Mobile+Developer;React-Native&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;ReactJs%20|%20NextJs|Astro|%20Vue;NestJs+%2F+Express;&center=true&width=380&height=45">
 	</a>
+	
 </p>
 <div align="center">
 <h2> 🚀 About Me</h2> 
@@ -34,8 +35,8 @@
 <h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 
-  <img src="https://skillicons.dev/icons?i=nodejs,react,next,javascript,typescript,html,css,tailwindcss" /><br>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,mysql,github,figma,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,next,javascript,typescript,html,css,tailwindcss,astro,vue" /><br>
+  <img src="https://skillicons.dev/icons?i=nest,express,mongodb,redis,postgres,mysql,docker,kubernetes,github,figma,git" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -44,6 +45,6 @@
 <img width=390 src="https://streak-stats.demolab.com/?user=wolfsoul01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=wolfsoul01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdevup&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfsoul01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
