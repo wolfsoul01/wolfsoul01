@@ -25,8 +25,8 @@
 😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app" target="_blank">mapToDev</a><br>
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://erickdevup.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickdevup)
+[![portfolio](https://img.shields.io/badge/my_portfolio-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://astrodevwolf.netlify.app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-fajardo-1548a0245)
 
 [![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)]()
 </div >
@@ -41,8 +41,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-<img width=390 src="https://streak-stats.demolab.com/?user=erickdevup&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=erickdevup&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=390 src="https://streak-stats.demolab.com/?user=wolfsoul01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wolfsoul01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdevup&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
