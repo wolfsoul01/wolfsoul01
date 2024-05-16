@@ -21,6 +21,8 @@
 
 💻Frontend Developer ReactJs / NextJs / Astro<br>
 
+💻Backend Developer ExpressJs / NestJs / .Net<br>
+
 🌱 I started programming at 17 as a hobby<br>
 
 😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app" target="_blank">mapToDev</a><br>
