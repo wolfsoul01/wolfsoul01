@@ -17,7 +17,6 @@
  
 ⚡️ Crypto enthusiastic<br>
 
-🌟 Mobile Developer React-Native<br>
 
 💻Frontend Developer ReactJs / NextJs / Astro<br>
 
@@ -37,7 +36,7 @@
 
 
   <img src="https://skillicons.dev/icons?i=nodejs,react,next,javascript,typescript,html,css,tailwindcss,astro,vue" /><br>
-  <img src="https://skillicons.dev/icons?i=nest,express,mongodb,redis,postgres,mysql,docker,kubernetes,github,figma,git" />
+  <img src="https://skillicons.dev/icons?i=nest,express,mongodb,redis,postgres,mysql,docker,kubernetes,github,figma,git,materialui" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
