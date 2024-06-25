@@ -23,7 +23,7 @@
 💻Backend Developer ExpressJs / NestJs / .Net<br>
 
 
-😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app" target="_blank">mapToDev</a><br>
+<!--😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app" target="_blank">mapToDev</a><br>-->
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://astrodevwolf.netlify.app)
